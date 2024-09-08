@@ -302,9 +302,11 @@ const Home = () => {
               chatbot is always here to listen and guide you. Chat with ease and
               get help right when you need it!
             </p>
+            <a href="https://rezen-c.streamlit.app/">
             <button className="mt-6 px-16 py-4 bg-pink-600 text-white font-semibold text-lg rounded-lg shadow-md hover:bg-pink-700">
               Try Now
             </button>
+            </a>
           </div>
         </div>
       </section>
